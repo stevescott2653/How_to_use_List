@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\bin\Debug\How_to_use_List.exe.config
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\bin\Debug\How_to_use_List.exe
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\bin\Debug\How_to_use_List.pdb
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\obj\Debug\How_to_use_List.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\obj\Debug\How_to_use_List.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\obj\Debug\How_to_use_List.exe
+D:\DEV\C#\Practice\How_to_use_List\How_to_use_List\obj\Debug\How_to_use_List.pdb
